@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f951e23e-664f-4af2-8f25-81b08cc4517b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="22ddb82a-abf7-4f3b-b1cd-578cc07b982b" />
+  <component name="ProjectId" id="1s8u2vz83WN5TQEdksZSu16d7Xe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.example">
+    <configuration name="eval_jingdong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDAM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_jingdong.py" />
+      <option name="PARAMETERS" value="data/jingdong100_data_test.pkl --model outputs/tsp_50/run_20221027T163110/epoch-45.pt --decode_strategies greedy --widths 0 -f" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDAM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_jingdong_data_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDAM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_jingdong_data_100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_jingdong_data_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDAM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_jingdong_data_20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_jingdong_data_50" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDAM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_jingdong_data_50.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.generate_jingdong_data_20" />
+      <item itemvalue="Python.eval_jingdong" />
+      <item itemvalue="Python.generate_jingdong_data_100" />
+      <item itemvalue="Python.generate_jingdong_data_50" />
+      <item itemvalue="Python.example" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.eval_jingdong" />
+        <item itemvalue="Python.generate_jingdong_data_100" />
+        <item itemvalue="Python.generate_jingdong_data_50" />
+        <item itemvalue="Python.generate_jingdong_data_20" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f951e23e-664f-4af2-8f25-81b08cc4517b" name="Default Changelist" comment="" />
+      <created>1620266334038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620266334038</updated>
+      <workItem from="1620266354375" duration="2918000" />
+      <workItem from="1620300999134" duration="7142000" />
+      <workItem from="1620352527861" duration="25147000" />
+      <workItem from="1620604620139" duration="46206000" />
+      <workItem from="1620776033137" duration="44787000" />
+      <workItem from="1621042640031" duration="26400000" />
+      <workItem from="1621294952796" duration="2570000" />
+      <workItem from="1621729204261" duration="1283000" />
+      <workItem from="1621903228121" duration="41550000" />
+      <workItem from="1622160420743" duration="1831000" />
+      <workItem from="1622342831110" duration="752000" />
+      <workItem from="1623035094084" duration="11754000" />
+      <workItem from="1623109910962" duration="3950000" />
+      <workItem from="1623236682897" duration="1293000" />
+      <workItem from="1623284397226" duration="1704000" />
+      <workItem from="1623288538713" duration="3211000" />
+      <workItem from="1623635047446" duration="729000" />
+      <workItem from="1624232387007" duration="2396000" />
+      <workItem from="1624674781645" duration="3629000" />
+      <workItem from="1624884484233" duration="438000" />
+      <workItem from="1624946575878" duration="8605000" />
+      <workItem from="1625035666646" duration="2757000" />
+      <workItem from="1625116495386" duration="19574000" />
+      <workItem from="1625203706769" duration="122000" />
+      <workItem from="1625363432825" duration="3814000" />
+      <workItem from="1625394128060" duration="870000" />
+      <workItem from="1625444474258" duration="534000" />
+      <workItem from="1625445417391" duration="833000" />
+      <workItem from="1625528464204" duration="787000" />
+      <workItem from="1625529561844" duration="536000" />
+      <workItem from="1625571350388" duration="420000" />
+      <workItem from="1625615928677" duration="2474000" />
+      <workItem from="1625701276455" duration="1292000" />
+      <workItem from="1626072156266" duration="4299000" />
+      <workItem from="1626270011883" duration="65000" />
+      <workItem from="1626828821677" duration="14481000" />
+      <workItem from="1631144532153" duration="13816000" />
+      <workItem from="1631749540122" duration="5359000" />
+      <workItem from="1640586982899" duration="650000" />
+      <workItem from="1640661650877" duration="5223000" />
+      <workItem from="1640741511951" duration="25009000" />
+      <workItem from="1641381497257" duration="9654000" />
+      <workItem from="1641442910148" duration="17326000" />
+      <workItem from="1642033181291" duration="37224000" />
+      <workItem from="1642836827692" duration="2333000" />
+      <workItem from="1642899075993" duration="31000" />
+      <workItem from="1642999385403" duration="716000" />
+      <workItem from="1646372205635" duration="43000" />
+      <workItem from="1648519774327" duration="1330000" />
+      <workItem from="1648972297143" duration="635000" />
+      <workItem from="1659061605670" duration="8473000" />
+      <workItem from="1659421411754" duration="3423000" />
+      <workItem from="1663383118708" duration="1340000" />
+      <workItem from="1664243187426" duration="5528000" />
+      <workItem from="1666224617102" duration="10943000" />
+      <workItem from="1666681559342" duration="32936000" />
+      <workItem from="1667867015447" duration="1800000" />
+      <workItem from="1668035837858" duration="642000" />
+      <workItem from="1668036531062" duration="529000" />
+      <workItem from="1668037078133" duration="24000" />
+      <workItem from="1668037130817" duration="487000" />
+      <workItem from="1668037623435" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Deployment" timestamp="1666227819756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1666227819756" />
+    <state x="254" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667867429498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="254" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1667867429498" />
+    <state width="1085" height="251" key="DebuggerActiveHint" timestamp="1666249293762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1085" height="251" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1666249293762" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1667867603270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1667867603270" />
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state width="1493" height="171" key="GridCell.Tab.1.bottom" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state width="1493" height="171" key="GridCell.Tab.1.center" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state width="1493" height="171" key="GridCell.Tab.1.left" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state width="1493" height="171" key="GridCell.Tab.1.right" timestamp="1667091283541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1667091283541" />
+    <state x="631" y="317" key="publish.login" timestamp="1666761686922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="317" key="publish.login/0.0.1536.824@0.0.1536.824" timestamp="1666761686922" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1666931609913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1666931609913" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/impact_of_graph_sparsification.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solution_of_Concorde.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SROCC_and_PLCC.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve_by_insertion.py</url>
+          <line>462</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_to_get_opt_gap.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_to_get_opt_gap.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SROCC_and_PLCC.py</url>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve_by_insertion.py</url>
+          <line>316</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/problems/tsp/problem_tsp.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_TSPLIB_dataset.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_jingdong_data_20.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MDGNN$eval_tsplib.coverage" NAME="eval_tsplib Coverage Results" MODIFIED="1666253136281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$eval.coverage" NAME="eval Coverage Results" MODIFIED="1659227683804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$sample_plot_tsp.coverage" NAME="sample_plot_tsp Coverage Results" MODIFIED="1640672770683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$sample_plot_tsp_multidecoders.coverage" NAME="sample_plot_tsp_multidecoders Coverage Results" MODIFIED="1641392895249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$solution_of_Concorde.coverage" NAME="solution_of_Concorde Coverage Results" MODIFIED="1640851572616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$run_jingdong.coverage" NAME="run_jingdong Coverage Results" MODIFIED="1666771665207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$generate_jingdong_data_50.coverage" NAME="generate_jingdong_data_50 Coverage Results" MODIFIED="1666859018149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$example.coverage" NAME="example Coverage Results" MODIFIED="1667087445770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$tsp_baseline.coverage" NAME="tsp_baseline Coverage Results" MODIFIED="1641446536958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems/tsp" />
+    <SUITE FILE_PATH="coverage/MDGNN$eval_jingdong.coverage" NAME="eval_jingdong Coverage Results" MODIFIED="1667008821125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$eval_to_get_opt_gap.coverage" NAME="eval_to_get_opt_gap Coverage Results" MODIFIED="1659062245326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$train_jingdong.coverage" NAME="train_jingdong Coverage Results" MODIFIED="1666766516668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDAM_lj$run.coverage" NAME="run Coverage Results" MODIFIED="1620352415137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$impact_of_graph_sparsification.coverage" NAME="impact_of_graph_sparsification Coverage Results" MODIFIED="1641381528696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$SROCC_and_PLCC.coverage" NAME="SROCC_and_PLCC Coverage Results" MODIFIED="1642125623159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$generate_jingdong_data_100.coverage" NAME="generate_jingdong_data_100 Coverage Results" MODIFIED="1666926257101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$solve_by_nn.coverage" NAME="solve_by_nn Coverage Results" MODIFIED="1642138914529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$run.coverage" NAME="run Coverage Results" MODIFIED="1666252780423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$generate_jingdong_data_20.coverage" NAME="generate_jingdong_data_20 Coverage Results" MODIFIED="1666835260674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDGNN$solve_by_insertion.coverage" NAME="solve_by_insertion Coverage Results" MODIFIED="1659422227400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
